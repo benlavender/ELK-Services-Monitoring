@@ -29,7 +29,9 @@ $sudo crontab –e
 //*Note this will set the job to run daily at 08:00 UST. Also confirm SMTP is allowed out through your firewall and also don’t forget to edit lines 7-9 for your mailings.
 
 //For Debian based systems:
+
 $sudo apt-get install mail-utils
 
 //For RHL based systems:
+
 $sudo yum install mail-utils
