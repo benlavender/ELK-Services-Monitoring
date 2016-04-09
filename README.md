@@ -11,6 +11,7 @@ Tested on GNU bash 4.3.11 on Ubuntu 14.x.x but will work on most versions.
 //Copy the ELK-Service-Monitoring.sh file to your directory where you can either run on-demand or as a cron job (recommended) and install mailutils:
 
 $cd /usr/local/bin
+
 $sudo chmod 755 ELK-Services-Monitoring.sh
 
 //Check for bash issues (no harm to do this)
